@@ -1,5 +1,13 @@
 # Midnight Mansion Login
 
+## If I had more time
+
+- Make the UI more aesthetic
+- Add functionalities for forgot your password and register (multi-screen flow)
+- Add animations
+- Add a password visibility toggle
+- Add testing
+
 This repo will be home to your Midnight Mansion coding interview.
 
 ## Project
@@ -22,4 +30,3 @@ You can use the `-p` flag to specify a port for development. To do this, you can
 ```
 npm start -- --port 1234
 ```
-# MidnightMansion
